@@ -9,4 +9,3 @@ dotnet new webapi --use-controllers -o TodoApi
 which generates the structure for the project from Microsoft's template.
 
 Quite surprisingly, Microsoft's auto-generated API template contains a weather forecast controller by default.
-A bit boring, since I would have preferred to see a sausage store by default. But on the other hand, why not! :)
